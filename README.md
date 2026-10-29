@@ -30,8 +30,5 @@ Currently, I'm building tools and startups to solve real-world problems, with th
 **DevOps & Environment**
 *   Git & GitHub CLI, Cross-platform local dev environments (Windows 11, macOS)
 
-**Human Languages**
-*   Arabic (Native), English (Fluent), French (Fluent)
-
 ## 📫 Let's Connect
 Feel free to explore my repositories or reach out if you want to collaborate on machine learning projects, AI tooling, cross-platform apps, or startup ideas!
