@@ -15,7 +15,7 @@ Currently, I'm building tools and startups to solve real-world problems, with th
 ## 🛠️ Tech Stack & Tools
 
 **Programming & Scripting Languages**
-*   Python, JavaScript, Kotlin, PowerShell, Bash / Shell
+*   Python, TypeScript, JavaScript, Kotlin, PowerShell, Bash / Shell
 
 **Frameworks & Libraries**
 *   Kotlin Multiplatform (KMP), Tailwind CSS, Pandas, Scikit-learn
