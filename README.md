@@ -7,6 +7,7 @@ I'm a third-year Computer Science student based in Warsaw, Poland. I build many 
 Currently, I'm building tools and startups to solve real-world problems, with the long-term goal of leading a major tech company as CEO.
 
 ## 🚀 What I'm Building
+*   **[Hailcast](https://github.com/YahyaLendani/hailcast):** Real-time data engineering and demand forecasting for taxi trips: a replayed event stream, a Bronze/Silver/Gold pipeline, LightGBM forecasting with walk-forward validation, anomaly detection and a live dashboard. **[Live demo](https://hailcast.onrender.com)**
 *   **[heart-disease-clinical-ml](https://github.com/YahyaLendani/heart-disease-clinical-ml):** Exploring machine learning applications in healthcare through clinical data analysis and predictive modeling for heart disease.
 *   **[CancelOS](https://www.cancelos.com):** A subscription management application featuring a minimalist, iOS-inspired user interface and custom DNS mail routing.
 *   **NodeSync:** An offline-first, cross-platform local file transfer app built with Kotlin Multiplatform, utilizing SQLite, custom hashing logic, and Supabase.
@@ -18,17 +19,17 @@ Currently, I'm building tools and startups to solve real-world problems, with th
 *   Python, TypeScript, JavaScript, Kotlin, PowerShell, Bash / Shell 
 
 **Frameworks & Libraries**
-*   Kotlin Multiplatform (KMP), Tailwind CSS, Pandas, Scikit-learn
+*   Kotlin Multiplatform (KMP), FastAPI, SQLAlchemy, Tailwind CSS, Pandas, Polars, Scikit-learn, LightGBM
 
 **Databases & Backend Infrastructure**
-*   SQLite, Supabase, DNS Routing & Configuration (Porkbun)
+*   SQLite, PostgreSQL, Redis Streams, Supabase, DNS Routing & Configuration (Porkbun)
 
 **AI, Machine Learning & LLM Tooling**
 *   Claude Code (Hooks & Skill configuration), Ollama, Aider, OpenRouter, Google Cloud Vertex AI, Model Context Protocol (MCP) servers
 *   Local & Cloud LLMs (Gemini 4 Argon, Qwen, GLM-5.2, Kimi K3)
 
 **DevOps & Environment**
-*   Git & GitHub CLI, Cross-platform local dev environments (Windows 11, macOS)
+*   Git & GitHub CLI, Docker, GitHub Actions (CI), Render, Cross-platform local dev environments (Windows 11, macOS)
 
 ## 📫 Let's Connect
 Feel free to explore my repositories or reach out if you want to collaborate on machine learning projects, AI tooling, cross-platform apps, or startup ideas!
