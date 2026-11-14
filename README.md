@@ -1,35 +1,28 @@
+# Yahya Lendani
 
+Third-year Computer Science student in Warsaw. I like building things end to end: the data pipeline, the backend, the interface, and the part where it actually gets deployed. Most of my work sits somewhere between software architecture, machine learning and developer tooling.
 
-# Hi there, I'm Yahya Lendani 👋
+Open to internships and junior roles. Portfolio: **[yahyalendani.me](https://yahyalendani.me)**
 
-I'm a third-year Computer Science student based in Warsaw, Poland. I build many things across different stacks, with a strong focus on software architecture, cross-platform applications, and increasingly, Machine Learning. I have an entrepreneurial mindset and a hands-on approach to learning—whether that's training clinical predictive models, architecting local file synchronization logic, or tuning local LLM agents. 
+## Projects
 
-Currently, I'm building tools and startups to solve real-world problems, with the long-term goal of leading a major tech company as CEO.
+| Project | What it is |
+| :--- | :--- |
+| **[Hailcast](https://github.com/YahyaLendani/hailcast)** · [live demo](https://hailcast.onrender.com) | Real-time data engineering and demand forecasting for taxi trips: a replayed event stream, a Bronze/Silver/Gold pipeline, LightGBM with walk-forward validation, and a live dashboard. |
+| **[SpectraCode](https://github.com/YahyaLendani/SpectraCode)** · [spectracode.tech](https://spectracode.tech) | Ask questions about a codebase and get answers that cite the exact file and lines, with every citation checked against the source. |
+| **[CancelOS](https://www.cancelos.com)** | Subscription tracker: see what you pay for, what renews next, and cancel what you do not want. |
+| **NodeSync** | Local-first file transfer between trusted devices, built with Kotlin Multiplatform. Prototype. |
+| **[heart-disease-clinical-ml](https://github.com/YahyaLendani/heart-disease-clinical-ml)** | Clinical ML research on cardiovascular risk and mortality prediction, with a focus on trustworthy models. |
+| **Claude skills** | Open-source skills for Claude Code: [Opus Tuner](https://github.com/YahyaLendani/opus-tuner-claude-skill) (cost control for long sessions), [MotionBrief](https://github.com/YahyaLendani/motionbrief-claude-skills) (motion graphics from a validated brief) and [Skills Orchestrator](https://github.com/YahyaLendani/Claude-Skills-orchestrator) (picks and combines skills for a task). |
 
-## 🚀 What I'm Building
-*   **[Hailcast](https://github.com/YahyaLendani/hailcast):** Real-time data engineering and demand forecasting for taxi trips: a replayed event stream, a Bronze/Silver/Gold pipeline, LightGBM forecasting with walk-forward validation, anomaly detection and a live dashboard. **[Live demo](https://hailcast.onrender.com)**
-*   **[heart-disease-clinical-ml](https://github.com/YahyaLendani/heart-disease-clinical-ml):** Exploring machine learning applications in healthcare through clinical data analysis and predictive modeling for heart disease.
-*   **[CancelOS](https://www.cancelos.com):** A subscription management application featuring a minimalist, iOS-inspired user interface and custom DNS mail routing.
-*   **NodeSync:** An offline-first, cross-platform local file transfer app built with Kotlin Multiplatform, utilizing SQLite, custom hashing logic, and Supabase.
-*   **AI Developer Tools:** Creator of open-source Claude skills like **Opus Tuner** (for optimizing token usage and workflow behavior) and **MotionBrief** (for generating precise motion design specs). 
+## Tools I reach for
 
-## 🛠️ Tech Stack & Tools
+- **Languages:** Python, TypeScript, JavaScript, Kotlin, SQL, PowerShell, Bash
+- **Web and apps:** FastAPI, Next.js, React, Tailwind CSS, Kotlin Multiplatform
+- **Data and ML:** Pandas, Polars, scikit-learn, LightGBM, PyTorch
+- **Backend and infra:** PostgreSQL, SQLite, Redis Streams, Supabase, Docker, GitHub Actions
+- **AI tooling:** Claude Code skills and hooks, MCP servers, Ollama, OpenRouter, Vertex AI
 
-**Programming & Scripting Languages**
-*   Python, TypeScript, JavaScript, Kotlin, PowerShell, Bash / Shell 
+## Get in touch
 
-**Frameworks & Libraries**
-*   Kotlin Multiplatform (KMP), FastAPI, SQLAlchemy, Tailwind CSS, Pandas, Polars, Scikit-learn, LightGBM
-
-**Databases & Backend Infrastructure**
-*   SQLite, PostgreSQL, Redis Streams, Supabase, DNS Routing & Configuration (Porkbun)
-
-**AI, Machine Learning & LLM Tooling**
-*   Claude Code (Hooks & Skill configuration), Ollama, Aider, OpenRouter, Google Cloud Vertex AI, Model Context Protocol (MCP) servers
-*   Local & Cloud LLMs (Gemini 4 Argon, Qwen, GLM-5.2, Kimi K3)
-
-**DevOps & Environment**
-*   Git & GitHub CLI, Docker, GitHub Actions (CI), Render, Cross-platform local dev environments (Windows 11, macOS)
-
-## 📫 Let's Connect
-Feel free to explore my repositories or reach out if you want to collaborate on machine learning projects, AI tooling, cross-platform apps, or startup ideas!
+Happy to talk about ML projects, developer tools, cross-platform apps or startup ideas. The contact details are on [my portfolio](https://yahyalendani.me/#contact).
